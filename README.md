@@ -22,5 +22,4 @@ Watch Demo Video Here [https://youtu.be/5JSRW8dozTc?si=oB-SODaquZfZT2HB]
 ## 🚀 How to Run
 Clone the repository:
 
-git clone https://github.com/your-username/delhi-metro-route-optimizer.git
-cd delhi-metro-route-optimizer
+git clone https://github.com/Sakshiprasad1927/Metro-Route.git
